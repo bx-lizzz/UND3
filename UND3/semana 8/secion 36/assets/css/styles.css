@@ -1,0 +1,15 @@
+.flex-container {
+    display:flex;
+    height: 200px;
+    align-items:center;
+    background-color: blue;
+}
+
+.flex-container div {
+    display: inline;
+    background-color: aqua;
+    width: 50px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 30px;
+}
